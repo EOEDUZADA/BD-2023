@@ -1,1 +1,1 @@
-# BD-2023
+# Diagramas feitos para a disciplina de Banco de dados 
